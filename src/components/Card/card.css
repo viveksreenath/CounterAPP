@@ -1,0 +1,17 @@
+.card {
+  padding: 20px;
+  border: 2px solid grey;
+  width: 300px;
+  margin: 10px;
+  position: relative;
+  border-radius: 10px;
+}
+.imgclass {
+  width: 200px;
+  height: 150px;
+  position: relative;
+  margin: 10px;
+}
+.ok-btn {
+  background-color: blue;
+}

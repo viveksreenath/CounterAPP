@@ -1,0 +1,8 @@
+.countermain {
+  border: 2px solid grey;
+  width: 300px;
+  margin: 10px auto;
+  position: relative;
+  border-radius: 5px;
+  text-align: center;
+}
